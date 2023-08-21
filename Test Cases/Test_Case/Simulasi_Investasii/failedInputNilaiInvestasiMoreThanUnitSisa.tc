@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>failedInputNilaiInvestasiMoreThanUnitSisa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b1b8c58-5829-41c8-8a64-29b894a3e1fc</testCaseGuid>
+</TestCaseEntity>
